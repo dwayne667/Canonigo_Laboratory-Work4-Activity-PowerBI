@@ -6,4 +6,4 @@ Jane Vanessa Canonigo
 Laboratory Work [4] – [FORECASTING TIME]
 
 # PDF Documentation:
-## Link: https://drive.google.com/drive/folders/1uGFl6ITBUMtLDDbiPj0bTWjpCrBJTkbU?usp=sharing
+## Link: https://drive.google.com/drive/folders/1uGFl6ITBUMtLDDbiPj0bTWjpCrBJTkbU?usp=drive_link
